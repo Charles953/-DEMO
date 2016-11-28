@@ -3,6 +3,10 @@
 - 微信订阅号开发
 - 项目技术：nodeJS、Express框架、 MySQL、 Bootstrap（后台）、MUI（移动站点）
 
+## 声明
+- 项目的源码，下载后不可运行。
+- 如需使用该项目，请自行配置、部署
+
 ## 数据库表
 ### userInfo
 - uid:{type:'serial',key:true},
