@@ -1,7 +1,7 @@
 # WeChat-demo
 - 后台管理系统
 - 微信订阅号开发
-- 项目技术：nodeJS、express框架、 MySQL、 Bootstrap（后台）、MUI（移动站点）
+- 项目技术：nodeJS、Express框架、 MySQL、 Bootstrap（后台）、MUI（移动站点）
 
 ## 数据库表
 ### userInfo
@@ -20,7 +20,7 @@
 - vimg:String
 
 ## 后台管理系统
-- 使用bootstrap框架搭建后台页面
+- 使用Bootstrap框架搭建后台页面
 - 包含src（开发版），dist（发布版）
 - 已使用gulp压缩文件，代码
 
