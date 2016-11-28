@@ -1,5 +1,7 @@
 # WeChat-demo
-一个使用NodeJS，express框架+MySQL开发微信订阅号的小项目
+- 后台管理系统
+- 微信订阅号开发
+- 项目技术：nodeJS、express框架、 MySQL、MUI
 ## 数据库表
 ### userInfo
 - uid:{type:'serial',key:true},
