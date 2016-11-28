@@ -6,6 +6,7 @@
 - uname:String,
 - upwd:String,
 - ustatus:Number
+
 ### videoInfo: 
 - vid:{type:'serial',key:true},
 - vtitle:String,
@@ -16,8 +17,8 @@
 - vimg:String
 
 ## 后台管理系统
-   ### serInfo
-    暂时只做了登录功能
-   ### videoInfo
-     添加、删除、编辑（里面使用了ueditor富文本编辑器）
+### userInfo
+暂时只做了登录功能
+### videoInfo
+添加、删除、编辑（里面使用了ueditor富文本编辑器）
  
