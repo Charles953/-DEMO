@@ -6,14 +6,15 @@
 - uname:String,
 - upwd:String,
 - ustatus:Number
-- +videoInfo: 
-### vid:{type:'serial',key:true},
+### videoInfo: 
+- vid:{type:'serial',key:true},
 - vtitle:String,
 - vsortno:Number,
 - vvideid:String,
 - vsummary:String,
 - vremark:String,
 - vimg:String
+
 ## 后台管理系统
    ### serInfo
     暂时只做了登录功能
