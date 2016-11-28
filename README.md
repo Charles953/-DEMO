@@ -1,7 +1,7 @@
 # WeChat-demo
 - 后台管理系统
 - 微信订阅号开发
-- 项目技术：nodeJS、express框架、 MySQL、MUI
+- 项目技术：nodeJS、express框架、 MySQL、 Bootstrap（后台）、MUI（移动站点）
 
 ## 数据库表
 ### userInfo
